@@ -1,4 +1,4 @@
-Secret Hitler Probability Calculator
+# Secret Hitler Probability Calculator
 
 Calculates the probability of various events in the social deduction game "Secret Hitler".
 
